@@ -12,3 +12,5 @@ I was unsuccessful in getting the algorithm to optimize the problem. However, th
 
 **Status |**
 Much work  needs to be done on revising the design problem, and potentially choosing a different optimizer that may handle this type of problem better.
+
+![](IMG_20200503_095123_474.jpg)
